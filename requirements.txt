@@ -1,5 +1,2 @@
 flask
-replicate
 gunicorn
-google-generativeai
-openai
